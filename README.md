@@ -2,28 +2,29 @@
 
 # hey, i'm sajit
 
-i build things for the internet.
-
-small tools, strange ideas, and projects that started with
-“what if this actually existed?”
+i build small tools, strange systems, and corners of the internet that feel a little more personal.
 
 [sympathy.club](https://sympathy.club) · [github](https://github.com/jynite?tab=repositories)
 
 </div>
 
-## currently building
+## what i'm working on
 
 ### [sympathy.club](https://sympathy.club)
 
-a small corner of the internet shaped around identity, creativity, and the people close to me.
+a personal space for identity, creativity, and the people close to me.
 
 ### ivory
 
-a project still finding its final form.
+an evolving project built around automation, data, and ideas that refuse to stay small.
 
-### everything else
+## languages & tools
 
-whatever seemed interesting enough to build.
+`c++` · `python` · `typescript` · `javascript` · `sql`
+
+`next.js` · `react` · `node.js` · `qt` · `postgresql`
+
+`supabase` · `vercel` · `railway` · `cloudflare r2`
 
 ## public work
 
@@ -33,26 +34,16 @@ an open-source valorant match tracker that reads live match data through the loc
 
 everything runs locally, so your data stays on your machine.
 
-`typescript` · `next.js` · `riot client api` · `mit`
+`c++` · `qt` · `riot client api`
 
 ### [the crucible](https://github.com/jynite/The-Crucible-Writing-System-For-Claude)
 
-a collection of claude skills designed to take a story from its earliest idea to a complete first draft.
-
-built around a 36-beat narrative framework for shaping characters, tension, and momentum without losing what makes the story feel alive.
+a collection of claude skills that takes a story from its first idea to a complete draft using a 36-beat narrative framework.
 
 `python` · `claude skills` · `writing tools`
 
-## somewhere between finished and becoming
-
-some projects here are complete.
-
-some are experiments.
-
-most are probably a little of both.
-
 <div align="center">
 
-<sub>probably building something that did not need to exist.</sub>
+<sub>building things that feel worth keeping.</sub>
 
 </div>
