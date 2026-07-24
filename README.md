@@ -2,16 +2,14 @@
 
 # hey, i'm sajit
 
-### i build things for the internet.
+i build things for the internet.
 
-small tools, strange ideas, and projects that usually begin with
+small tools, strange ideas, and projects that started with
 “what if this actually existed?”
 
 [sympathy.club](https://sympathy.club) · [github](https://github.com/jynite?tab=repositories)
 
 </div>
-
-<br>
 
 ## currently building
 
@@ -25,9 +23,7 @@ a project still finding its final form.
 
 ### everything else
 
-whatever seemed interesting enough to lose sleep over.
-
-<br>
+whatever seemed interesting enough to build.
 
 ## public work
 
@@ -39,17 +35,13 @@ everything runs locally, so your data stays on your machine.
 
 `typescript` · `next.js` · `riot client api` · `mit`
 
----
-
 ### [the crucible](https://github.com/jynite/The-Crucible-Writing-System-For-Claude)
 
-a collection of claude skills designed to carry a story from its earliest idea to a complete first draft.
+a collection of claude skills designed to take a story from its earliest idea to a complete first draft.
 
-built around a 36-beat narrative framework for shaping characters, tension, and momentum without sanding away the parts that make a story feel alive.
+built around a 36-beat narrative framework for shaping characters, tension, and momentum without losing what makes the story feel alive.
 
 `python` · `claude skills` · `writing tools`
-
-<br>
 
 ## somewhere between finished and becoming
 
@@ -57,11 +49,9 @@ some projects here are complete.
 
 some are experiments.
 
-most are probably a little bit of both.
+most are probably a little of both.
 
 <div align="center">
-
-<br>
 
 <sub>probably building something that did not need to exist.</sub>
 
