@@ -2,7 +2,7 @@
 
 # hey, i'm sajit
 
-i build small tools, strange systems, and corners of the internet that feel a little more personal.
+i build small tools, community platforms, and internet projects that feel personal.
 
 [sympathy.club](https://sympathy.club) · [github](https://github.com/jynite?tab=repositories)
 
@@ -12,19 +12,19 @@ i build small tools, strange systems, and corners of the internet that feel a li
 
 ### [sympathy.club](https://sympathy.club)
 
-a personal space for identity, creativity, and the people close to me.
+a public web platform for custom profiles, live online presence, music, shared projects, and community tools.
+
+it brings personal pages and connected projects together under one shared platform.
 
 ### ivory
 
-an evolving project built around automation, data, and ideas that refuse to stay small.
+a discord bot built as part of sympathy.club.
 
-## languages & tools
+designed as an alternative to bleed, with a focus on moderation, utility, customization, and integration with the sympathy.club platform.
+
+## languages
 
 `c++` · `python` · `typescript` · `javascript` · `sql`
-
-`next.js` · `react` · `node.js` · `qt` · `postgresql`
-
-`supabase` · `vercel` · `railway` · `cloudflare r2`
 
 ## public work
 
