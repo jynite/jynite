@@ -1,90 +1,42 @@
 <div align="center">
 
-# Sajit
+# hey, i'm sajit
 
-### designer of ideas · builder of internet things
+i make stuff for the internet.
 
-I turn interesting ideas into useful, thoughtful software.
-
-[sympathy.club](https://sympathy.club) &nbsp;·&nbsp;
-[projects](https://github.com/jynite?tab=repositories) &nbsp;·&nbsp;
-[follow](https://github.com/jynite?tab=followers)
+[sympathy.club](https://sympathy.club) ·
+[my repos](https://github.com/jynite?tab=repositories)
 
 </div>
 
----
+## what i'm working on
 
-## Now
+- [sympathy.club](https://sympathy.club)
+- ivory
+- whatever else seemed like a good idea at the time
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## public stuff
 
-### sympathy.club
+### [valorant tracker](https://github.com/jynite/valorant-tracker)
 
-Building a home for the things I make.
+an open source valorant match tracker. it pulls live match data from the local
+riot client api, so everything stays on your machine.
 
-[Visit sympathy.club →](https://sympathy.club)
+`typescript` · `next.js` · `mit`
 
-</td>
-<td width="50%" valign="top">
+### [the crucible](https://github.com/jynite/The-Crucible-Writing-System-For-Claude)
 
-### Ivory
+a set of claude skills for going from a story idea to a first draft using a
+36-beat narrative framework.
 
-Currently taking shape.
+`python` · `claude skills` · `writing tools`
 
-`work in progress`
+## anyway
 
-</td>
-</tr>
-</table>
-
-## Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Valorant Tracker](https://github.com/jynite/valorant-tracker)
-
-A local-first, open-source match tracker that pulls live data from the Riot
-Client API. Match insights stay on your machine.
-
-`TypeScript` · `Next.js` · `MIT`
-
-[View source →](https://github.com/jynite/valorant-tracker)
-
-</td>
-<td width="50%" valign="top">
-
-### [The Crucible](https://github.com/jynite/The-Crucible-Writing-System-For-Claude)
-
-An integrated suite of Claude skills that guides writers from an initial story
-concept to a completed first draft through a 36-beat narrative framework.
-
-`Python` · `Claude skills` · `Writing tools`
-
-[Explore the system →](https://github.com/jynite/The-Crucible-Writing-System-For-Claude)
-
-</td>
-</tr>
-</table>
-
-## The workshop
-
-Some projects become products. Some are experiments. All of them start with
-curiosity—and usually too many open browser tabs.
-
-```text
-currently  → sympathy.club + Ivory
-usually    → designing, building, refining
-always     → following the interesting thread
-```
-
----
+some things here are finished. some are experiments. some might be both.
 
 <div align="center">
 
-<sub>Make something worth finding.</sub>
+<sub>probably building something.</sub>
 
 </div>
