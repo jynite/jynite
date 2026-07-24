@@ -2,48 +2,49 @@
 
 # hey, i'm sajit
 
-i build small tools, community platforms, and internet projects that feel personal.
+i build tools, platforms, and projects for the internet.
 
-[sympathy.club](https://sympathy.club) · [github](https://github.com/jynite?tab=repositories)
+[![sympathy.club](https://img.shields.io/badge/sympathy.club-111111?style=for-the-badge)](https://sympathy.club)
+[![github](https://img.shields.io/badge/github-111111?style=for-the-badge\&logo=github)](https://github.com/jynite?tab=repositories)
 
 </div>
 
-## what i'm working on
+## currently building
 
 ### [sympathy.club](https://sympathy.club)
 
-a public web platform for custom profiles, live online presence, music, shared projects, and community tools.
-
-it brings personal pages and connected projects together under one shared platform.
+a public web platform for creating custom profiles centered around online presence, music, and personal projects.
 
 ### ivory
 
-a discord bot built as part of sympathy.club.
-
-designed as an alternative to bleed, with a focus on moderation, utility, customization, and integration with the sympathy.club platform.
+a discord bot built as part of sympathy.club and designed as a competitor to bleed.
 
 ## languages
 
-`c++` · `python` · `typescript` · `javascript` · `sql`
+<p>
+  <img src="https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus" alt="C++">
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql" alt="SQL">
+</p>
 
 ## public work
 
 ### [valorant tracker](https://github.com/jynite/valorant-tracker)
 
-an open-source valorant match tracker that reads live match data through the local riot client api.
+an open-source valorant match tracker that pulls live match data from the local riot client api while keeping everything on your machine.
 
-everything runs locally, so your data stays on your machine.
-
-`c++` · `qt` · `riot client api`
+`typescript` · `next.js` · `mit`
 
 ### [the crucible](https://github.com/jynite/The-Crucible-Writing-System-For-Claude)
 
-a collection of claude skills that takes a story from its first idea to a complete draft using a 36-beat narrative framework.
+a collection of claude skills for taking a story from its initial idea to a first draft using a 36-beat narrative framework.
 
 `python` · `claude skills` · `writing tools`
 
 <div align="center">
 
-<sub>building things that feel worth keeping.</sub>
+<sub>probably building something.</sub>
 
 </div>
