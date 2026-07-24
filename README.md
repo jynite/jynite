@@ -2,41 +2,67 @@
 
 # hey, i'm sajit
 
-i make stuff for the internet.
+### i build things for the internet.
 
-[sympathy.club](https://sympathy.club) ·
-[my repos](https://github.com/jynite?tab=repositories)
+small tools, strange ideas, and projects that usually begin with
+“what if this actually existed?”
+
+[sympathy.club](https://sympathy.club) · [github](https://github.com/jynite?tab=repositories)
 
 </div>
 
-## what i'm working on
+<br>
 
-- [sympathy.club](https://sympathy.club)
-- ivory
-- whatever else seemed like a good idea at the time
+## currently building
 
-## public stuff
+### [sympathy.club](https://sympathy.club)
+
+a small corner of the internet shaped around identity, creativity, and the people close to me.
+
+### ivory
+
+a project still finding its final form.
+
+### everything else
+
+whatever seemed interesting enough to lose sleep over.
+
+<br>
+
+## public work
 
 ### [valorant tracker](https://github.com/jynite/valorant-tracker)
 
-an open source valorant match tracker. it pulls live match data from the local
-riot client api, so everything stays on your machine.
+an open-source valorant match tracker that reads live match data through the local riot client api.
 
-`typescript` · `next.js` · `mit`
+everything runs locally, so your data stays on your machine.
+
+`typescript` · `next.js` · `riot client api` · `mit`
+
+---
 
 ### [the crucible](https://github.com/jynite/The-Crucible-Writing-System-For-Claude)
 
-a set of claude skills for going from a story idea to a first draft using a
-36-beat narrative framework.
+a collection of claude skills designed to carry a story from its earliest idea to a complete first draft.
+
+built around a 36-beat narrative framework for shaping characters, tension, and momentum without sanding away the parts that make a story feel alive.
 
 `python` · `claude skills` · `writing tools`
 
-## anyway
+<br>
 
-some things here are finished. some are experiments. some might be both.
+## somewhere between finished and becoming
+
+some projects here are complete.
+
+some are experiments.
+
+most are probably a little bit of both.
 
 <div align="center">
 
-<sub>probably building something.</sub>
+<br>
+
+<sub>probably building something that did not need to exist.</sub>
 
 </div>
