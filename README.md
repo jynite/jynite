@@ -43,8 +43,4 @@ a collection of claude skills for taking a story from its initial idea to a firs
 
 `python` · `claude skills` · `writing tools`
 
-<div align="center">
-
-<sub>probably building something.</sub>
-
 </div>
