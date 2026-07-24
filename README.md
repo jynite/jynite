@@ -1,42 +1,90 @@
 <div align="center">
 
-# Hey, I'm Sajit 👋
+# Sajit
 
-### I make things, break things, and learn something along the way.
+### designer of ideas · builder of internet things
 
-Welcome to my corner of GitHub — a growing collection of projects, experiments,
-and ideas turned into code.
+I turn interesting ideas into useful, thoughtful software.
 
-[Explore my repositories](https://github.com/jynite?tab=repositories) ·
-[Follow along](https://github.com/jynite?tab=followers)
+[sympathy.club](https://sympathy.club) &nbsp;·&nbsp;
+[projects](https://github.com/jynite?tab=repositories) &nbsp;·&nbsp;
+[follow](https://github.com/jynite?tab=followers)
 
 </div>
 
 ---
 
-### What I'm up to
+## Now
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### sympathy.club
+
+Building a home for the things I make.
+
+[Visit sympathy.club →](https://sympathy.club)
+
+</td>
+<td width="50%" valign="top">
+
+### Ivory
+
+Currently taking shape.
+
+`work in progress`
+
+</td>
+</tr>
+</table>
+
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Valorant Tracker](https://github.com/jynite/valorant-tracker)
+
+A local-first, open-source match tracker that pulls live data from the Riot
+Client API. Match insights stay on your machine.
+
+`TypeScript` · `Next.js` · `MIT`
+
+[View source →](https://github.com/jynite/valorant-tracker)
+
+</td>
+<td width="50%" valign="top">
+
+### [The Crucible](https://github.com/jynite/The-Crucible-Writing-System-For-Claude)
+
+An integrated suite of Claude skills that guides writers from an initial story
+concept to a completed first draft through a 36-beat narrative framework.
+
+`Python` · `Claude skills` · `Writing tools`
+
+[Explore the system →](https://github.com/jynite/The-Crucible-Writing-System-For-Claude)
+
+</td>
+</tr>
+</table>
+
+## The workshop
+
+Some projects become products. Some are experiments. All of them start with
+curiosity—and usually too many open browser tabs.
 
 ```text
-building   → useful things
-learning   → one rabbit hole at a time
-improving  → every commit
+currently  → sympathy.club + Ivory
+usually    → designing, building, refining
+always     → following the interesting thread
 ```
-
-I use GitHub as a workshop: some projects are polished, some are experiments,
-and all of them are part of the process.
-
-### A little more
-
-- 🛠️ I enjoy turning ideas into working software
-- 🌱 I'm always learning, refining, and trying new approaches
-- 🤝 I'm open to interesting projects and thoughtful collaboration
 
 ---
 
 <div align="center">
 
-**Thanks for stopping by. Take a look around — you might find something interesting.**
-
-<sub>Made with curiosity and probably too many browser tabs.</sub>
+<sub>Make something worth finding.</sub>
 
 </div>
