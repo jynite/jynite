@@ -31,6 +31,12 @@ a discord bot built as part of sympathy.club and designed as a competitor to ble
 
 ## public work
 
+### instant local ai
+
+a windows + wsl setup for running and managing a completely local ai stack through ollama and open webui, with one-command controls for starting, stopping, updating, monitoring, benchmarking, and managing models.
+
+`powershell` · `wsl` · `ollama` · `open webui`
+
 ### [valorant tracker](https://github.com/jynite/valorant-tracker)
 
 an open-source valorant match tracker that pulls live match data from the local riot client api while keeping everything on your machine.
@@ -42,5 +48,3 @@ an open-source valorant match tracker that pulls live match data from the local 
 a collection of claude skills for taking a story from its initial idea to a first draft using a 36-beat narrative framework.
 
 `python` · `claude skills` · `writing tools`
-
-</div>
