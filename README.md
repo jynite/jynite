@@ -31,7 +31,7 @@ a discord bot built as part of sympathy.club and designed as a competitor to ble
 
 ## public work
 
-### instant local ai
+### [instant local ai](https://github.com/jynite/Instant-Local-AI)
 
 a windows + wsl setup for running and managing a completely local ai stack through ollama and open webui, with one-command controls for starting, stopping, updating, monitoring, benchmarking, and managing models.
 
