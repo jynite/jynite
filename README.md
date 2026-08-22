@@ -9,7 +9,7 @@ i build tools, platforms, and projects for the internet.
 
 </div>
 
-## currently building
+## privately building
 
 ### [sympathy.club](https://sympathy.club)
 
@@ -29,7 +29,7 @@ a discord bot built as part of sympathy.club and designed as a competitor to ble
   <img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql" alt="SQL">
 </p>
 
-## public work
+## open source
 
 ### [instant local ai](https://github.com/jynite/Instant-Local-AI)
 
