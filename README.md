@@ -41,7 +41,7 @@ a windows + wsl setup for running and managing a completely local ai stack throu
 
 an open-source valorant match tracker that pulls live match data from the local riot client api while keeping everything on your machine.
 
-`typescript` · `next.js` · `mit`
+`typescript` · `next.js` · `data`
 
 ### [the crucible](https://github.com/jynite/The-Crucible-Writing-System-For-Claude)
 
