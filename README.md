@@ -5,7 +5,7 @@
 ## working on
 
 **[sympathy.club](https://sympathy.club)**<br>
-independent clothing and accessories.
+member profiles, the ivory dashboard, and an apparel shop.
 
 **ivory**<br>
 the discord bot behind the site (private repo).
